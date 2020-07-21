@@ -1,0 +1,2 @@
+class ConcatError(Exception):
+    pass
